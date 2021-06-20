@@ -15,6 +15,5 @@ Tools and techniques used:
   - crackstation.net
   - Kibana
     - Filebeat
-    - Metricbeat
     - Packetbeat
   
